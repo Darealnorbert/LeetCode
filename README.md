@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
+| [3194-find-words-containing-character](https://github.com/Darealnorbert/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darealnorbert/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -38,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Darealnorbert/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Darealnorbert/LeetCode/tree/master/0742-to-lower-case) |
+| [3194-find-words-containing-character](https://github.com/Darealnorbert/LeetCode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
