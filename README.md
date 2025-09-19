@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Darealnorbert/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Darealnorbert/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Darealnorbert/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darealnorbert/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Darealnorbert/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Darealnorbert/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Darealnorbert/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Darealnorbert/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Darealnorbert/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Darealnorbert/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darealnorbert/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
