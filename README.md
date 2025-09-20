@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Darealnorbert/LeetCode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Darealnorbert/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Darealnorbert/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Darealnorbert/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Darealnorbert/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Darealnorbert/LeetCode/tree/master/0742-to-lower-case) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Darealnorbert/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Darealnorbert/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Darealnorbert/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Darealnorbert/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
