@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Darealnorbert/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Darealnorbert/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Darealnorbert/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Darealnorbert/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Darealnorbert/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Darealnorbert/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Darealnorbert/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
