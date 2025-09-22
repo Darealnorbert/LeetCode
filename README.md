@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Darealnorbert/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Darealnorbert/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Darealnorbert/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/Darealnorbert/LeetCode/tree/master/3226-minimum-number-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Darealnorbert/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Darealnorbert/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
+| [3226-minimum-number-game](https://github.com/Darealnorbert/LeetCode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Darealnorbert/LeetCode/tree/master/0412-fizz-buzz) |
+| [3226-minimum-number-game](https://github.com/Darealnorbert/LeetCode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Darealnorbert/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Darealnorbert/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
