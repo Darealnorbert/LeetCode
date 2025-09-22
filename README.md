@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Darealnorbert/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Darealnorbert/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Darealnorbert/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/Darealnorbert/LeetCode/tree/master/3312-number-of-changing-keys) |
 ## Prefix Sum
 |  |
 | ------- |
