@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Darealnorbert/LeetCode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Darealnorbert/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Darealnorbert/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -96,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Darealnorbert/LeetCode/tree/master/3226-minimum-number-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Darealnorbert/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Darealnorbert/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Darealnorbert/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
