@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Darealnorbert/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
+| [1137-height-checker](https://github.com/Darealnorbert/LeetCode/tree/master/1137-height-checker) |
 | [1603-running-sum-of-1d-array](https://github.com/Darealnorbert/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Darealnorbert/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
+| [1137-height-checker](https://github.com/Darealnorbert/LeetCode/tree/master/1137-height-checker) |
 | [3226-minimum-number-game](https://github.com/Darealnorbert/LeetCode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Darealnorbert/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Darealnorbert/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
