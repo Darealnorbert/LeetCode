@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Darealnorbert/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Darealnorbert/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Darealnorbert/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Darealnorbert/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/Darealnorbert/LeetCode/tree/master/1137-height-checker) |
 | [3226-minimum-number-game](https://github.com/Darealnorbert/LeetCode/tree/master/3226-minimum-number-game) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Darealnorbert/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Darealnorbert/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Darealnorbert/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Darealnorbert/LeetCode/tree/master/0742-to-lower-case) |
