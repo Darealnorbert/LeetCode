@@ -5,9 +5,6 @@ class Solution(object):
         :type extraCandies: int
         :rtype: List[bool]
         """
-        arr = []
-        for candy in candies:
-            arr.append((candy+extraCandies)>=max(candies))
+        arr = [(candy+extraCandies)>=max(candies) for candy in candies]
         return arr
-            
         
