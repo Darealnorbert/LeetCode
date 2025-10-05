@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Darealnorbert/LeetCode/tree/master/1137-height-checker) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Darealnorbert/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Darealnorbert/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Darealnorbert/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Darealnorbert/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Darealnorbert/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Darealnorbert/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Darealnorbert/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Darealnorbert/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Darealnorbert/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Darealnorbert/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Darealnorbert/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Darealnorbert/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Darealnorbert/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Darealnorbert/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Darealnorbert/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Darealnorbert/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Darealnorbert/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Darealnorbert/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Darealnorbert/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Darealnorbert/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Darealnorbert/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -127,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Darealnorbert/LeetCode/tree/master/1137-height-checker) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Darealnorbert/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
