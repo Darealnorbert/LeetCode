@@ -7,7 +7,8 @@ class Solution(object):
         """
         count = 0
         allowed_set = set(allowed)
+
         for word in words:
-            if set(word) <= set(allowed):
+            if all(char in allowed_set for char in word):
                 count += 1
         return count
