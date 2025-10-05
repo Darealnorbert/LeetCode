@@ -6,6 +6,7 @@ class Solution(object):
         :rtype: int
         """
         count = 0
+        allowed_set = set(allowed)
         for word in words:
             if set(word) <= set(allowed):
                 count += 1
